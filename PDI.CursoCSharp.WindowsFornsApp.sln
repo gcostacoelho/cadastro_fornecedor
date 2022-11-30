@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDI.CursoCSharp.WindowsFornsApp", "PDI.CursoCSharp.WindowsFornsApp\PDI.CursoCSharp.WindowsFornsApp.csproj", "{E48F145C-A40F-49A5-AF12-A1E1832AE867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E48F145C-A40F-49A5-AF12-A1E1832AE867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48F145C-A40F-49A5-AF12-A1E1832AE867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48F145C-A40F-49A5-AF12-A1E1832AE867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48F145C-A40F-49A5-AF12-A1E1832AE867}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE440C02-60B4-41D1-9FBE-8752B4200846}
+	EndGlobalSection
+EndGlobal

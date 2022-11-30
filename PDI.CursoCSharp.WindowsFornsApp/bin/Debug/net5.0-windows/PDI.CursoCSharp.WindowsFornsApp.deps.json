@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PDI.CursoCSharp.WindowsFornsApp/1.0.0": {
+        "runtime": {
+          "PDI.CursoCSharp.WindowsFornsApp.dll": {}
+        },
+        "resources": {
+          "zh-Hans-MO/PDI.CursoCSharp.WindowsFornsApp.resources.dll": {
+            "locale": "zh-Hans-MO"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PDI.CursoCSharp.WindowsFornsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
